@@ -1,7 +1,7 @@
 # compile verilog/system verilog design source files
 sv xil_defaultlib  \
-"../../../../project_1.srcs/sources_1/new/laser_timer.sv" \
-"../../../../project_1.srcs/sim_1/new/laser_timer_tb.sv" \
+"../../../../project_1.srcs/sources_1/new/laser_timer_rev.sv" \
+"../../../../project_1.srcs/sim_1/new/laser_timer_rev_tb.sv" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"
