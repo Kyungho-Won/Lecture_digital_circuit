@@ -1,0 +1,36 @@
+## Switches
+set_property PACKAGE_PIN V17 [get_ports {B[0]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {B[0]}]
+set_property PACKAGE_PIN V16 [get_ports {B[1]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {B[1]}]
+set_property PACKAGE_PIN W16 [get_ports {B[2]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {B[2]}]
+set_property PACKAGE_PIN W17 [get_ports {B[3]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {B[3]}]
+#
+set_property PACKAGE_PIN V2 [get_ports {A[0]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {A[0]}]
+set_property PACKAGE_PIN T3 [get_ports {A[1]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {A[1]}]
+set_property PACKAGE_PIN T2 [get_ports {A[2]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {A[2]}]
+set_property PACKAGE_PIN R3 [get_ports {A[3]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {A[3]}]
+#
+set_property PACKAGE_PIN R2 [get_ports {Sel}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {Sel}]
+## LEDs
+set_property PACKAGE_PIN U16 [get_ports {C[0]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {C[0]}]
+set_property PACKAGE_PIN E19 [get_ports {C[1]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {C[1]}]
+set_property PACKAGE_PIN U19 [get_ports {C[2]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {C[2]}]
+set_property PACKAGE_PIN V19 [get_ports {C[3]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {C[3]}]
+set_property PACKAGE_PIN W18 [get_ports {C[4]}]
+	set_property IOSTANDARD LVCMOS33 [get_ports {C[4]}]
+
+## Configuration options, can be used for all designs
+set_property CONFIG_VOLTAGE 3.3 [current_design]
+set_property CFGBVS VCCO [current_design]

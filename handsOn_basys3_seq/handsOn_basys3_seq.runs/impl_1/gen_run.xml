@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1748674217">
+  <File Type="ROUTE-PWR" Name="mod10_counter_sb_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="mod10_counter_sb.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="mod10_counter_sb_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="mod10_counter_sb_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="mod10_counter_sb_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="mod10_counter_sb.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="mod10_counter_sb_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="mod10_counter_sb_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="mod10_counter_sb_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="mod10_counter_sb_opt.dcp"/>
+  <File Type="OPT-DRC" Name="mod10_counter_sb_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="mod10_counter_sb.hwdef"/>
+  <File Type="PWROPT-DCP" Name="mod10_counter_sb_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="mod10_counter_sb_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="mod10_counter_sb_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="mod10_counter_sb_placed.dcp"/>
+  <File Type="PLACE-IO" Name="mod10_counter_sb_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="mod10_counter_sb_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="mod10_counter_sb_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="mod10_counter_sb_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="mod10_counter_sb_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="mod10_counter_sb_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="mod10_counter_sb_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="mod10_counter_sb.bin"/>
+  <File Type="PLACE-TIMING" Name="mod10_counter_sb_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="mod10_counter_sb_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="mod10_counter_sb_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="mod10_counter_sb_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="mod10_counter_sb.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="mod10_counter_sb_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="mod10_counter_sb_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="mod10_counter_sb_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="mod10_counter_sb.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="mod10_counter_sb_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="mod10_counter_sb_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="mod10_counter_sb_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="mod10_counter_sb_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="mod10_counter_sb_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="mod10_counter_sb_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="mod10_counter_sb_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="mod10_counter_sb_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="mod10_counter_sb_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="mod10_counter_sb_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="mod10_counter_sb_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="mod10_counter_sb_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="mod10_counter_sb_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="mod10_counter_sb_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="mod10_counter_sb_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="mod10_counter_sb_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="mod10_counter_sb_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="mod10_counter_sb_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="mod10_counter_sb_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="mod10_counter_sb_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="mod10_counter_sb_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="mod10_counter_sb_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="mod10_counter_sb_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="mod10_counter_sb_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="mod10_counter_sb_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="mod10_counter_sb_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="mod10_counter_sb_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="mod10_counter_sb.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="mod10_counter_sb_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="mod10_counter_sb_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="mod10_counter_sb.nky"/>
+  <File Type="BITSTR-BMM" Name="mod10_counter_sb_bd.bmm"/>
+  <File Type="PDI-FILE" Name="mod10_counter_sb.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="mod10_counter_sb_soc.pdi"/>
+  <File Type="PL-PDI-FILE" Name="mod10_counter_sb_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="mod10_counter_sb.rcfi"/>
+  <File Type="CFI_FILE" Name="mod10_counter_sb.cfi"/>
+  <File Type="RNPI_FILE" Name="mod10_counter_sb.rnpi"/>
+  <File Type="NPI_FILE" Name="mod10_counter_sb.npi"/>
+  <File Type="RBD_FILE" Name="mod10_counter_sb.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="mod10_counter_sb.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="mod10_counter_sb.sysdef"/>
+  <File Type="BG-BGN" Name="mod10_counter_sb.bgn"/>
+  <File Type="BG-DRC" Name="mod10_counter_sb.drc"/>
+  <File Type="RDI-RDI" Name="mod10_counter_sb.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="mod10_counter_sb_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="mod10_counter_sb_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../../Projects/Lecture_digital_circuit/SV_Code/clock_gen.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../Projects/Lecture_digital_circuit/SV_Code/mod10_counter.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../Projects/Lecture_digital_circuit/SV_Code/segment_4bit.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../Projects/Lecture_digital_circuit/SV_Code/mod10_counter_sb.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../Projects/Lecture_digital_circuit/SV_Code/bin2bcd_p.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="mod10_counter_sb"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../Projects/Lecture_digital_circuit/SV_Code/mod10_counter.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/mod10_counter_sb.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
